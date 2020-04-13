@@ -6,7 +6,7 @@ local MarketPlaceService = game:GetService("MarketplaceService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local lasttick = tick()
-local library, frames, Callbacks, Enabled = loadstring(game:HttpGet("[STR_ENCRYPT]https://cdn.synapse.to/synapsedistro/hub/MadCityHaxxV2Lib.lua"))();
+local library, frames, Callbacks, Enabled = loadstring(game:HttpGet("[STR_ENCRYPT]https://raw.githubusercontent.com/oworip/skidding/master/MadCityHaxxV2Lib"))();
 
 local Combat = library:CreateWindow({text = "Combat"});
 local Teleport_ = library:CreateWindow({text = "Teleport"});

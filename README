@@ -1,0 +1,8 @@
+So, everything was skidded by owo rip
+remove
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+local catch = function() return 'asd' end
+if not is_synapse_function(catch) then while true do end end
+functions:RunLoop("Version_Check")
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+To use for oher exploits other than synapse.

@@ -7,7 +7,7 @@
 
 ]]
 
---if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://pastebin.com/raw/UwFCVrhS", true))() end
+--if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://raw.githubusercontent.com/oworip/skidding/master/PFHaxx", true))() end
 if getgenv().phantom_fucker then return end
 
 getgenv().phantom_fucker = true

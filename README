@@ -6,3 +6,4 @@ if not is_synapse_function(catch) then while true do end end
 functions:RunLoop("Version_Check")
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 To use for oher exploits other than synapse.
+-Synapse said they can take legal action if i dont release the src of their src, i found this myself and would like to see them try to sue me for something i cracked.
